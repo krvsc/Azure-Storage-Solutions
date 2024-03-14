@@ -3,11 +3,11 @@
 This repository contains detailed documentation for configuring Azure Storage solutions for various purposes, including IT department testing and training, public website hosting, private internal storage, shared file storage for company offices, and storage for a new company app. Each section provides step-by-step instructions along with explanations of why each configuration is necessary.
 
 ### Table of Contents
-Exercise 1: Provide storage for the IT department testing and training
-Exercise 2: Provide storage for the public website
-Exercise 3: Provide private storage for internal company documents
-Exercise 4: Provide shared file storage for the company offices
-Exercise 5: Provide storage for a new company app
+Exercise 1: Provide storage for the IT department testing and training <br>
+Exercise 2: Provide storage for the public website <br>
+Exercise 3: Provide private storage for internal company documents <br>
+Exercise 4: Provide shared file storage for the company offices <br>
+Exercise 5: Provide storage for a new company app <br>
 
 ---
 
